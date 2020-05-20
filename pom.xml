@@ -9,7 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>deep-to-jvm-chapter01</module>
+        <module>deep-to-jvm-chapter02</module>
+        <module>deep-to-jvm-test</module>
     </modules>
 
     <build>
