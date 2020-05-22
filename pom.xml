@@ -11,6 +11,7 @@
     <modules>
         <module>deep-to-jvm-chapter02</module>
         <module>deep-to-jvm-test</module>
+        <module>deep-to-jvm-chapter04</module>
     </modules>
 
     <build>
