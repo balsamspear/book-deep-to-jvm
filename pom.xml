@@ -12,7 +12,18 @@
         <module>deep-to-jvm-chapter02</module>
         <module>deep-to-jvm-test</module>
         <module>deep-to-jvm-chapter04</module>
+        <module>deep-to-jvm-chapter07</module>
     </modules>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/junit/junit -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
     <build>
         <plugins>
